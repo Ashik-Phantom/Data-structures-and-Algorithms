@@ -1,5 +1,7 @@
 // Merge Sort - Sort in Ascending order
+// This program get a input N and a array if input of size N and sorts the array in ascending order
 
+// Solution
 #include<stdio.h>
 #include<stdlib.h>
 
