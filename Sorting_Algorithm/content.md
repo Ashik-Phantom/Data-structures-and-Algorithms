@@ -1,4 +1,4 @@
-<h1>Content<h1>
+<h1>Content</h1>
 <ol>
-<li>Merge sort<\li>
-<\ol>
+<li>Merge sort</li>
+</ol>
