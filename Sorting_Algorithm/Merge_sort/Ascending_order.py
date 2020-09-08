@@ -9,7 +9,7 @@ def merge_sort(arr):
         right = arr[mid:] 
         left = merge_sort(left) 
         right = merge_sort(right)   
-        arr =[]   
+        arr = []   
         while len(left) > 0 and len(right) > 0: 
             if left[0]<right[0]: 
                 arr.append(left[0]) 
